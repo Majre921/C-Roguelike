@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686848463 source:c:\users\mirch\documents\rogue-like\main.c
+	<stdio.h>
+	<stdlib.h>
+
